@@ -1,2 +1,3 @@
 mkdocs-material==7.3.0
 mkdocs-git-revision-date-plugin
+wheel
