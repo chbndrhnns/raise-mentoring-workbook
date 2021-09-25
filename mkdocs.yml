@@ -1,0 +1,33 @@
+site_name: Mentoring-Handbuch
+repo_url: https://github.com/chbndrhnns/raise-mentoring-workbook
+
+
+theme:
+  name: material
+  language: de
+  logo: assets/mobile-menu-logo.svg
+  favicon: assets/favicon-32.png
+  palette:
+    primary: white
+
+  font:
+    text: Lato
+
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - search.highlight
+    - search.share
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+plugins:
+  - git-revision-date
+
+nav:
+  - Vision:
+    - vision/index.md
+
