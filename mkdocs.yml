@@ -20,6 +20,8 @@ theme:
     - search.share
 
 markdown_extensions:
+  - admonition
+  - footnotes
   - toc:
       permalink: true
       toc_depth: 3
@@ -30,4 +32,8 @@ plugins:
 nav:
   - Vision:
     - vision/index.md
+  - Teil 1:
+    - mentoring-gespraech.md
+  - Tools:
+    - tools/coaching-fragen.md
 
