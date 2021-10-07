@@ -33,6 +33,7 @@ plugins:
 nav:
   - Vision:
     - vision/index.md
+    - journey.md
   - Teil 1:
     - mentoring-gespraech.md
   - Tools:
