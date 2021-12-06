@@ -43,6 +43,7 @@ nav:
     - themen/index.md
     - themen/mentoring-gespraech.md
   - Tools:
+    - tools/index.md
     - tools/coaching-fragen.md
   - Internes:
     - changelog.md
