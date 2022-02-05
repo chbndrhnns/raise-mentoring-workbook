@@ -1,2 +1,2 @@
 check-links:
-	@(mkdocs-linkcheck docs)
+	@(mkdocs-linkcheck -r docs)
