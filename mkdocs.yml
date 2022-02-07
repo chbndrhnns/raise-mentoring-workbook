@@ -1,6 +1,6 @@
 site_name: Mentoring-Handbuch
 repo_url: https://github.com/chbndrhnns/raise-mentoring-workbook
-strict: true
+strict: false
 
 theme:
   name: material
@@ -46,6 +46,7 @@ nav:
     - tools/index.md
     - tools/coaching-fragen.md
     - tools/lebenskurve.md
+    - tools/krisen-lektionen.md
   - Internes:
     - changelog.md
 
