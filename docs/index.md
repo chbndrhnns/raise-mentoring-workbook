@@ -4,7 +4,7 @@ Liebe Mentorin und lieber Mentor,
 
 wir freuen uns, dass Du da bist!
 
-Mit unserem RAISE LEADERS Mentoring-Workbook wollen wir Dich mit auf eine Reise nehmen. Eine Reise, die junge Christen dabei unterstützt, fachlich sowie charakterlich zu wachsen. Eine Reise, die sie befähigt, Verantwortung, zu übernehmen, um eine Veränderung in der Gesellschaft herbeizuführen. Die RAISE LEADERS Vision findest Du [hier](./vision/index.md). 
+Mit unserem RAISE LEADERS Mentoring-Workbook wollen wir Dich mit auf eine Reise nehmen. Eine Reise, die junge Christen dabei unterstützt, fachlich sowie charakterlich zu wachsen. Eine Reise, die sie befähigt, Verantwortung, zu übernehmen, um eine Veränderung in der Gesellschaft herbeizuführen. Die RAISE LEADERS Vision findest Du [hier](./vision/index.md). 
 
 Damit diese Reise gut gelingen kann, findest Du in diesem Mentoring-Workbook jede Menge Impulse und Ideen, die Dich inspirieren und bereichern sollen. Das Mentoring-Workbook ist in verschiedene Bereiche gegliedert und soll als dynamisches Arbeitsbuch verstanden werden, das sich stetig verändert. Es liegt digital vor und kann ausgedruckt werden. 
 
