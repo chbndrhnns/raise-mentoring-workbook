@@ -1,6 +1,6 @@
 site_name: Mentoring-Handbuch
 repo_url: https://github.com/chbndrhnns/raise-mentoring-workbook
-strict: false
+strict: true
 
 theme:
   name: material
@@ -31,6 +31,8 @@ markdown_extensions:
 plugins:
   - git-revision-date
   - search
+  - tags:
+      tags_file: tags.md
 
 nav:
   - Home: "index.md"

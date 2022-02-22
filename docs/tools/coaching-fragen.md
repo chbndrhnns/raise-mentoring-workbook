@@ -1,3 +1,8 @@
+---
+tags:
+  - fragen
+---
+
 # Coaching-Fragen
 
 Diese Fragen hat John Whitmore[^1] zusammengestellt:
