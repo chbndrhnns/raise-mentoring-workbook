@@ -15,6 +15,6 @@
 ## Tool 13 Kompetenzen 
 ## Tool 14 Partner 
 ## 2.3. Prioritäten 
-## Tool 15 Dazu können wir das „Eisenhower-Diagramm“ verwenden. 
+## Tool 15 Dazu können wir das [„Eisenhower-Diagramm“](./eisenhower-diagramm.md) verwenden. 
 ## Tool 16 [Lernziele definieren](./lernziele-definieren.md)
 ## Tool 17 [GROW-Fragen](./grow-fragen.md)
