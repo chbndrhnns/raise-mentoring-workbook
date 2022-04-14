@@ -16,6 +16,7 @@
 ## Tool 14 Partner 
 ## 2.3. Prioritäten 
 ## [Kommunität](./kommunitaet.md)
+## [Individualität](./individualitaet.md)
 ## Tool 15 Dazu können wir das [„Eisenhower-Diagramm“](./eisenhower-diagramm.md) verwenden. 
 ## Tool 16 [Lernziele definieren](./lernziele-definieren.md)
 ## Tool 17 [GROW-Fragen](./grow-fragen.md)
