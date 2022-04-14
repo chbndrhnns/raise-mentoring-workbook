@@ -17,4 +17,4 @@
 ## 2.3. Prioritäten 
 ## Tool 15 Dazu können wir das „Eisenhower-Diagramm“ verwenden. 
 ## Tool 16 Lernziele definieren 
-## Tool 17 GROW-Frage
+## Tool 17 [GROW-Fragen](./grow-fragen.md)
