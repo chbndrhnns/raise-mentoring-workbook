@@ -11,7 +11,7 @@
 ## Tool 9 Pyramide Persönlichkeitsmerkmale ausfüllen 
 ## Tool 10 Pyramide ideale Umstände ausfüllen 
 ## Tool 11 Paradigmen und Werte 
-## Tool 12 Potenzial einsetzen 
+## Tool 12 [Potenzial einsetzen](./potential-einsetzen.md)
 ## Tool 13 Kompetenzen 
 ## Tool 14 Partner 
 ## 2.3. Prioritäten 
