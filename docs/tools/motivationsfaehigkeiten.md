@@ -140,7 +140,7 @@
 - Sinn für Ästhetik haben
 
 <figure markdown>
-  ![Pyramide der natürlichen Motivationsfähigkeiten](../assets/pyramide-motivationsfaehigkeiten.png)
+  ![Pyramide der natürlichen Motivationsfähigkeiten](../assets/pyramide.png)
   <figcaption>Pyramide der natürlichen Motivationsfähigkeiten</figcaption>
 </figure>
 
