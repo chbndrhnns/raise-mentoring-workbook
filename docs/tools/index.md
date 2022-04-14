@@ -8,9 +8,9 @@
 ## Tool 6 1. Fähigkeiten: Was machst du gern? Was kannst du gut? 
 ## Tool 7 Pyramide ausfüllen 
 ## Tool 8 2. Liste Persönlichkeitsmerkmale + 3. Ideale Umstände 
-## Tool 9 Pyramide Persönlichkeitsmerkmale ausfüllen 
-## Tool 10 Pyramide ideale Umstände ausfüllen 
-## Tool 11 Paradigmen und Werte 
+## Tool 9 [Pyramide Persönlichkeitsmerkmale ausfüllen](./pyramiden.md)
+## Tool 10 [Pyramide ideale Umstände ausfüllen](./pyramiden.md)
+## Tool 11 [Paradigmen und Werte](./paradigmen-werte.md)
 ## Tool 12 [Potenzial einsetzen](./potential-einsetzen.md)
 ## Tool 13 Kompetenzen 
 ## Tool 14 Partner 
