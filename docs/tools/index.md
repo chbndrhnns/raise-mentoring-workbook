@@ -1,22 +1,19 @@
 # Überblick
 
-## Tool 1 Einige Coachingfragen 
-## Tool 2 Lebenskurve: Hat der Mentee seine Krisen erkannt? Bewältigt? 
-## Tool 3 Krisen: 
-## Tool 4 Leiterschaftserfahrungen 
-## Tool 5 Erfolge 
-## Tool 6 1. Fähigkeiten: Was machst du gern? Was kannst du gut? 
-## Tool 7 Pyramide ausfüllen 
-## Tool 8 2. Liste Persönlichkeitsmerkmale + 3. Ideale Umstände 
-## Tool 9 [Pyramide Persönlichkeitsmerkmale ausfüllen](./pyramiden.md)
-## Tool 10 [Pyramide ideale Umstände ausfüllen](./pyramiden.md)
-## Tool 11 [Paradigmen und Werte](./paradigmen-werte.md)
-## Tool 12 [Potenzial einsetzen](./potential-einsetzen.md)
-## Tool 13 Kompetenzen 
-## Tool 14 Partner 
-## 2.3. Prioritäten 
+## [Coachingfragen](./coaching-fragen.md)
+## [Lebenskurve](./lebenskurve.md)
+## [Krisen](./krisen-lektionen.md)
+## [Leiterschaftserfahrungen](./leiterschaftserfahrungen.md)
+## [Erfolge](./erfolge-talente.md)
+## [Fähigkeiten: Was machst du gern? Was kannst du gut?](./motivationsfaehigkeiten.md)
+## [Pyramide ausfüllen](./pyramiden.md)
+## [Liste Persönlichkeitsmerkmale](./persoenlichkeitsprofil-liste.md)
+## [Pyramide Persönlichkeitsmerkmale](./pyramiden.md)
+## [Pyramide ideale Umstände](./pyramiden.md)
+## [Paradigmen und Werte](./paradigmen-werte.md)
+## [Potenzial einsetzen](./potential-einsetzen.md) 
 ## [Kommunität](./kommunitaet.md)
 ## [Individualität](./individualitaet.md)
-## Tool 15 Dazu können wir das [„Eisenhower-Diagramm“](./eisenhower-diagramm.md) verwenden. 
-## Tool 16 [Lernziele definieren](./lernziele-definieren.md)
-## Tool 17 [GROW-Fragen](./grow-fragen.md)
+## [Eisenhower-Diagramm](./eisenhower-diagramm.md)
+## [Lernziele definieren](./lernziele-definieren.md)
+## [GROW-Fragen](./grow-fragen.md)
