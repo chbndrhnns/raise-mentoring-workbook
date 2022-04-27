@@ -7,7 +7,17 @@ tags:
 
 !!! Anleitung
 
-    tbd
+    ### Erklärung
+
+    Das DISG-Persönlichkeitsprofil hilft. 
+
+    ### Vorgehensweise
+
+    Lesen!!!
+
+    ### Erwartungsbild
+
+    Der Mentee kennt sich besser.
 
 ## Tätigkeiten mit Menschen [^1]
 

@@ -6,6 +6,20 @@ tags:
 
 # Coaching-Fragen
 
+!!! Anleitung
+
+    ### Erklärung
+
+    Das DISG-Persönlichkeitsprofil hilft. 
+
+    ### Vorgehensweise
+
+    Reflektiere über Erfahrungen, die du bisher in deinem Leben mit dem Thema "Leiterschaft" gemacht hast.
+
+    ### Erwartungsbild
+
+    Der Mentee kennt sich besser.
+
 Diese Fragen hat John Whitmore[^1] zusammengestellt:
 
 - "Was noch"? am Ende der meisten Antworten, führt zu mehr.
