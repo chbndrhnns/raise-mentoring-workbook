@@ -38,6 +38,7 @@ plugins:
 
 nav:
   - Home: "index.md"
+  - Tags: "tags.md"
   - Vision:
     - vision/index.md
     - vision/journey.md
