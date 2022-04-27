@@ -1,3 +1,9 @@
+---
+tags:
+  - tools
+  - überarbeiten
+---
+
 # DISG-Persönlichkeitsprofil
 
 !!! Anleitung

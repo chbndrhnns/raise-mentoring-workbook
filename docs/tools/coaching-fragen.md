@@ -1,6 +1,7 @@
 ---
 tags:
   - fragen
+  - tools
 ---
 
 # Coaching-Fragen

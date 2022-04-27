@@ -1,3 +1,8 @@
+---
+tags:
+  - tools
+---
+
 # Paradigmen und Werte
 
 !!! Anleitung

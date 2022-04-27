@@ -1,3 +1,8 @@
+---
+tags:
+  - tools
+---
+
 # Lernziele definieren (Diagramm)
 
 Quelle: Daniel Ofmann[^1]
