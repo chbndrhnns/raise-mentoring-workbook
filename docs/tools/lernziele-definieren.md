@@ -7,6 +7,20 @@ tags:
 
 Quelle: Daniel Ofmann[^1]
 
+!!! Anleitung
+
+    ### Erklärung
+
+    Das DISG-Persönlichkeitsprofil hilft. 
+
+    ### Vorgehensweise
+
+    Lesen!!!
+
+    ### Erwartungsbild
+
+    Der Mentee kennt sich besser.
+
 ## Stärken
 
 ## Schwächen

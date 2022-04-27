@@ -6,7 +6,19 @@ tags:
 # Paradigmen und Werte
 
 !!! Anleitung
-    tbd
+
+    ### Erklärung
+
+    Das DISG-Persönlichkeitsprofil hilft. 
+
+    ### Vorgehensweise
+
+    Lesen!!!
+
+    ### Erwartungsbild
+
+    Der Mentee kennt sich besser.
+
 
 1. Was ist dir wirklich wichtig?
 2. Wie verbringst du Deinen Tag? Welche Dinge füllen deinen Tag? Bringst du Opfer? Widmest du deine Zeit, deine Talente und Mittel deiner Berufung?
