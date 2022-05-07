@@ -10,15 +10,20 @@ tags:
 
     ### Erklärung
 
-    Das DISG-Persönlichkeitsprofil hilft. 
+    Manchmal braucht es den Impuls einer Frage, um den Mentee zum Nachdenken zu bringen. Der Coach John Whitmore hat in seinem Buch[^1] einige Fragen zusammengestellt, die wir euch gern anbieten wollen. 
+
+    Fragen haben selten eine magische Wirkung im Sinne von: "Ich muss nur die richtige Frage kennen und stellen". Vielmehr 
+    können sie helfen, das Gespräch in eine gute Richtung zu lenken.
 
     ### Vorgehensweise
 
-    Reflektiere über Erfahrungen, die du bisher in deinem Leben mit dem Thema "Leiterschaft" gemacht hast.
+    Probiere eine passende Frage oder Verhaltensweise aus und beobachte, was sie beim Mentee auslöst. Verwunderung? Stille? Widerspruch? Zustimmung?
+    
+    Sowohl die (verbale) Antwort als auch (non-verbale) Reaktion gibt dir vermutlich Hinweise für den weiteren Verlauf des Gesprächs.
 
     ### Erwartungsbild
 
-    Der Mentee kennt sich besser.
+    Der Mentee reflektiert anhand der Frage(n) sein Verhalten, seine Einstellung oder seine Pläne.
 
 Diese Fragen hat John Whitmore[^1] zusammengestellt:
 
@@ -32,4 +37,4 @@ Diese Fragen hat John Whitmore[^1] zusammengestellt:
 - "Was würden Sie gewinnen/verlieren, wenn Sie das täten oder sagten"?
 - "Wenn jemand das zu Ihnen sagte/Ihnen täte, was würden Sie fühlen, denken, tun?"
 
-[^1]: Auszug aus "[Coaching für die Praxis](https://www.amazon.de/Coaching-f%C3%BCr-Praxis-Heyne-Business/dp/3453117492)" von John Whitmore
+[^1]: Auszug aus "[Coaching für die Praxis](https://books.google.de/books/about/Coaching_f%C3%BCr_die_Praxis.htmlMwItSwAACAAJ)" von John Whitmore
