@@ -17,7 +17,7 @@ tags:
     1. Liste in der ersten Spalte Erfolge auf
     2. Überlege, ob es Talente gibt, die du aus den Erfolgen ableiten kannst
 
-    ### Erwartungsbild
+    ### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 

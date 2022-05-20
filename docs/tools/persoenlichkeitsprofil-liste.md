@@ -16,7 +16,7 @@ tags:
 
     Lesen!!!
 
-    ### Erwartungsbild
+    ### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 

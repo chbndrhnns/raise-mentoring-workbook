@@ -15,7 +15,7 @@ tags:
 
     Reflektiere über Erfahrungen, die du bisher in deinem Leben mit dem Thema "Leiterschaft" gemacht hast.
 
-    ### Erwartungsbild
+    ### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 
