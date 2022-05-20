@@ -6,20 +6,22 @@ tags:
 # Kommunität
 
 - [ ] Quelle?
+- [ ] TODO:
+
 
 !!! Anleitung
 
     #### Erklärung
 
-    Das DISG-Persönlichkeitsprofil hilft. 
+    - [ ] TODO:
 
     #### Vorgehensweise
 
-    Reflektiere über Erfahrungen, die du bisher in deinem Leben mit dem Thema "Leiterschaft" gemacht hast.
+    - [ ] TODO:
 
     #### Ergebnis/Nutzen
 
-    Der Mentee kennt sich besser.
+    - [ ] TODO:
 
 ## Welchen Menschen möchte ich dienen?
 

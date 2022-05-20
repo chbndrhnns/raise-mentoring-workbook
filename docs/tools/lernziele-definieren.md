@@ -11,15 +11,15 @@ Quelle: Daniel Ofmann[^1]
 
     #### Erklärung
 
-    Das DISG-Persönlichkeitsprofil hilft. 
+    - [ ] TODO:
 
     #### Vorgehensweise
 
-    Lesen!!!
+    - [ ] TODO:
 
     #### Ergebnis/Nutzen
 
-    Der Mentee kennt sich besser.
+    - [ ] TODO:
 
 ## Stärken
 

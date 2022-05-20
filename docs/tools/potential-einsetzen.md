@@ -9,14 +9,14 @@ tags:
 
     #### Erklärung
 
-    Das DISG-Persönlichkeitsprofil hilft. 
+    - [ ] TODO:
 
     #### Vorgehensweise
 
-    Lesen!!!
+    - [ ] TODO:
 
     #### Ergebnis/Nutzen
 
-    Der Mentee kennt sich besser.
+    - [ ] TODO:
 
 ![](../assets/potential-einsetzen.png)
