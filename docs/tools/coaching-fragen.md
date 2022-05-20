@@ -21,7 +21,7 @@ tags:
     
     Sowohl die (verbale) Antwort als auch (non-verbale) Reaktion gibt dir vermutlich Hinweise für den weiteren Verlauf des Gesprächs.
 
-    ### Erwartungsbild
+    ### Ergebnis/Nutzen
 
     Der Mentee reflektiert anhand der Frage(n) sein Verhalten, seine Einstellung oder seine Pläne.
 

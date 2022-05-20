@@ -17,7 +17,7 @@ Quelle: Daniel Ofmann[^1]
 
     Lesen!!!
 
-    ### Erwartungsbild
+    ### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 

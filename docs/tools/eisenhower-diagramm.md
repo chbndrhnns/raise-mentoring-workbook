@@ -36,7 +36,7 @@ tags:
 
         Auch "Papierkorb" genannt. Zeit für diese Aufgaben und auch die Anzahl der Aufgaben in diesem Quadranten soll minimiert werden.
 
-    ### Erwartungsbild
+    ### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 

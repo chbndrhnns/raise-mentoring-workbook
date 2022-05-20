@@ -16,7 +16,7 @@ tags:
     1. Liste in der ersten Spalte Krisenerfahrungen auf, die du identifiziert hast
     2. Überlege, welche Resourcen oder Lektionen dich diese Krisen gelehrt haben
 
-    ### Erwartungsbild
+    ### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 
