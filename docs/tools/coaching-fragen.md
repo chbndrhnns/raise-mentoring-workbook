@@ -8,20 +8,20 @@ tags:
 
 !!! Anleitung
 
-    ### Erklärung
+    #### Erklärung
 
     Manchmal braucht es den Impuls einer Frage, um den Mentee zum Nachdenken zu bringen. Der Coach John Whitmore hat in seinem Buch[^1] einige Fragen zusammengestellt, die wir euch gern anbieten wollen. 
 
     Fragen haben selten eine magische Wirkung im Sinne von: "Ich muss nur die richtige Frage kennen und stellen". Vielmehr 
     können sie helfen, das Gespräch in eine gute Richtung zu lenken.
 
-    ### Vorgehensweise
+    #### Vorgehensweise
 
     Probiere eine passende Frage oder Verhaltensweise aus und beobachte, was sie beim Mentee auslöst. Verwunderung? Stille? Widerspruch? Zustimmung?
     
     Sowohl die (verbale) Antwort als auch (non-verbale) Reaktion gibt dir vermutlich Hinweise für den weiteren Verlauf des Gesprächs.
 
-    ### Ergebnis/Nutzen
+    #### Ergebnis/Nutzen
 
     Der Mentee reflektiert anhand der Frage(n) sein Verhalten, seine Einstellung oder seine Pläne.
 

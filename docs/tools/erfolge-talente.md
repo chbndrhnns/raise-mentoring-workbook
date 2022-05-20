@@ -8,16 +8,16 @@ tags:
 
 !!! Anleitung
 
-    ### Erklärung
+    #### Erklärung
 
     Das DISG-Persönlichkeitsprofil hilft. 
 
-    ### Vorgehensweise
+    #### Vorgehensweise
 
     1. Liste in der ersten Spalte Erfolge auf
     2. Überlege, ob es Talente gibt, die du aus den Erfolgen ableiten kannst
 
-    ### Ergebnis/Nutzen
+    #### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 
