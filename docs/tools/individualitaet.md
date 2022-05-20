@@ -9,15 +9,15 @@ tags:
 
 !!! Anleitung
 
-    ### Erklärung
+    #### Erklärung
 
     Das DISG-Persönlichkeitsprofil hilft. 
 
-    ### Vorgehensweise
+    #### Vorgehensweise
 
     Reflektiere über Erfahrungen, die du bisher in deinem Leben mit dem Thema "Leiterschaft" gemacht hast.
 
-    ### Ergebnis/Nutzen
+    #### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 

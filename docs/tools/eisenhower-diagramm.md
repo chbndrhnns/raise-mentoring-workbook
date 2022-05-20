@@ -9,7 +9,7 @@ tags:
 
 !!! Anleitung
 
-    ### Erklärung
+    #### Erklärung
 
     Ob das Diagramm oder das dahinterstehende Prinzip tatsächlich vom früheren amerikanischen Präsidenten stammt, bleibt ungeklärt. Offensichtlich ist, dass seine Aussage
 
@@ -18,7 +18,7 @@ tags:
     sich indirekt in diesem Tool widerspiegelt. 
 
 
-    ### Vorgehensweise
+    #### Vorgehensweise
 
     Aufgaben werden dabei anhand der zwei Dimensionen "Dringlichkeit" und "Wichtigkeit" bewertet und in einem der vier Quadranten zuordnet:
 
@@ -36,7 +36,7 @@ tags:
 
         Auch "Papierkorb" genannt. Zeit für diese Aufgaben und auch die Anzahl der Aufgaben in diesem Quadranten soll minimiert werden.
 
-    ### Ergebnis/Nutzen
+    #### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 

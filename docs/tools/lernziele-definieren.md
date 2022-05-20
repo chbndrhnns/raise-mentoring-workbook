@@ -9,15 +9,15 @@ Quelle: Daniel Ofmann[^1]
 
 !!! Anleitung
 
-    ### Erklärung
+    #### Erklärung
 
     Das DISG-Persönlichkeitsprofil hilft. 
 
-    ### Vorgehensweise
+    #### Vorgehensweise
 
     Lesen!!!
 
-    ### Ergebnis/Nutzen
+    #### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 

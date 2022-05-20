@@ -7,16 +7,16 @@ tags:
 
 !!! Anleitung
 
-    ### Erklärung
+    #### Erklärung
 
     Das DISG-Persönlichkeitsprofil hilft. 
 
-    ### Vorgehensweise
+    #### Vorgehensweise
 
     1. Liste in der ersten Spalte Krisenerfahrungen auf, die du identifiziert hast
     2. Überlege, welche Resourcen oder Lektionen dich diese Krisen gelehrt haben
 
-    ### Ergebnis/Nutzen
+    #### Ergebnis/Nutzen
 
     Der Mentee kennt sich besser.
 
