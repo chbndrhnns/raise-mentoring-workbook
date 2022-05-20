@@ -24,13 +24,15 @@ tags:
 
     1. Wichtig und nicht dringend
 
-        :smile:
+        Themen in diesem Quandrat sind oft von großer Bedeutung, weil sie die eigene Ausrichtung betreffen.
 
     1. Wichtig und dringend
 
+        Auch dieser Quadrant soll klein gehalten werden. Beispiel: Plötzlich auftretende Zahnschmerzen müssen behandelt werden, lassen sich in Zukunft aber möglicherweise durch regelmäßige Vorsorge vermeiden.
 
     1. Nicht wichtig, aber dringend
 
+        Dieser Quadrant soll mit der Zeit kleiner werden, indem diese Aufgaben möglichst delegiert oder abgelehnt werden.
 
     1. Nicht wichtig und nicht dringend
 
