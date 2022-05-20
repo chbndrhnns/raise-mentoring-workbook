@@ -10,16 +10,18 @@ tags:
 
     #### Erklärung
 
-    Das DISG-Persönlichkeitsprofil hilft. 
+    Reflexion über eigene Erfolge und Talente. Hilfreich, wenn eine positive Sichtweise auf Selbstwirksamkeit fehlt.
 
     #### Vorgehensweise
 
-    1. Liste in der ersten Spalte Erfolge auf
-    2. Überlege, ob es Talente gibt, die du aus den Erfolgen ableiten kannst
+    1. Wähle einen Betrachtungszeitraum
+    1. Notiere Erfolge 
+    1. Erfasse, welche Talente du durch diese Erfolge entdeckt oder welche du einsetzen konntest
 
     #### Ergebnis/Nutzen
 
-    Der Mentee kennt sich besser.
+    Die Erkenntnis, dass der Mentee Erfolge verzeichnen kann.
+    Die Erkenntnis, wie erlebte Erfolge durch eigene Fähigkeiten möglich wurden.
 
 | Erfolge                                                                    | Talente                                                                |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
