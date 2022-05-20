@@ -9,82 +9,58 @@ tags:
 
     #### Erklärung
 
-    Das DISG-Persönlichkeitsprofil hilft. 
+    Ein Modell ist effektiv in der Anwendung, wenn der Mentor die Struktur gedanklich parat hat und das Gespräch entsprechend lenkt. 
+    Es geht nicht darum, alle aufgeführten Fragen der Reihe nach zu stellen. 
 
     #### Vorgehensweise
 
-    Reflektiere über Erfahrungen, die du bisher in deinem Leben mit dem Thema "Leiterschaft" gemacht hast.
+    1. Der Mentee präsentiert ein konkretes Thema, in dem er weiterkommen will
+    1. Anhand des Vierstufenmodells führt der Mentor durch das Gespräch, um das Thema vor allem auf potenzielle Hindernisse zu durchleuchten und konkrete Aufgaben zu erarbeiten.
 
     #### Ergebnis/Nutzen
 
-    Der Mentee kennt sich besser.
+    Der Mentee erfährt Wachstum.
 
 
-
-- [ ] du statt sie
-
-- [ ] "reality" ist als falsch markiert
-
-- [ ] Quelle?
+John Whitmore stellt das GROW-Modell in seinem Coaching-Buch[^1] vor:
 
 
+## G = Goal setting
 
-G = Goal/Ziel
-
-- Was ist Ihr Ziel?
-
-- Mit welchem Resultat? In welcher Zeit?
-
-- In welche Schritte ist es zu unterteilen und
-
-- wie ist die Qualität des gewünschten Resultats messbar?
+- Was ist dein Ziel?
+    - Mit welchem Resultat? 
+    - In welcher Zeit?
+    - In welche Schritte ist es zu unterteilen?
+    - Wie ist die Qualität des gewünschten Resultats messbar?
 
 
-
-R = Reality
+## R = Reality checking
 
 - Auf welche Hindernisse könnte man auf dem Weg zum Ziel stoßen?
-
 - Welche Risiken sind mit diesem Ziel verbunden?
-
-- Wie können wir es jetzt schaffen?
-
+- Wie können wir es *jetzt* schaffen?
 
 
-O = Optionen
+## O = Options
 
-- Wie wollen Sie diese Hindernisse umgehen?
-
-- Welche anderen Wege führen auch zu Ihrem Ziel?
-
+- Wie wollst du diese Hindernisse umgehen?
+- Welche anderen Wege führen auch zum Ziel?
 - Welcher Weg bietet die größten Erfolgsaussichten?
-
-- Was würden Sie noch tun, wenn Sie mehr Zeit oder mehr Geld hätten?
-
-- Was würden Sie tun, wenn Sie ganz von vorn mit einem neuen Team anfangen
-
-könnten?
-
+- Was würdest du noch tun, wenn du mehr Zeit oder mehr Geld hättest?
+- Was würdest du tun, wenn du ganz von vorn mit einem neuen Team anfangen könntest?
 - Was sind die Vor- und Nachteile jeder Möglichkeit?
-
-- Welche Lösung wäre für Sie am befriedigendsten?
-
+- Welche Lösung wäre für dich am befriedigendsten?
 
 
-W = Wille
+## W = What, When, Who, Will
 
-- Was werden Sie tun? (Nicht, was haben Sie vor, zu tun?)
+- Was wirst du tun? (Nicht: "Was hast du vor, zu tun?")
+- Wann wirst du es tun?
+- Auf welche Hindernisse könntest du stoßen?
+- Was tust du, um diese äußeren und inneren Hindernisse zu beseitigen?
+- Welche Unterstützung benötigst du?
+- Was tust du, um Hilfe zu bekommen und wann?
+- Wie entschlossen (auf einer Skala von 1 bis 10) willst du diese Ziele erreichen?
+- Aufgrund welcher Motive willst du dieses Ziel erreichen?
 
-- Wann werden Sie es tun?
-
-- Auf welche Hindernisse können Sie stoßen?
-
-- Was tun Sie, um diese äußeren und inneren Hindernisse zu beseitigen?
-
-- Welche Unterstützung benötigen Sie?
-
-- Was tun Sie, um Hilfe zu bekommen und wann?
-
-- Wie entschlossen wollen Sie diese Ziele erreichen? (Skala 1-10)?
-
-- Aufgrund welcher Motive wollen Sie dieses Ziel erreichen?
+[^1]: Whitmore, John: [Coaching für die Praxis](https://books.google.de/books/about/Coaching_f%C3%BCr_die_Praxis.htmlMwItSwAACAAJ)
