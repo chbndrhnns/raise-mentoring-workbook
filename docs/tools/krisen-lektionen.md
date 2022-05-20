@@ -9,7 +9,7 @@ tags:
 
     #### Erklärung
 
-    Das DISG-Persönlichkeitsprofil hilft. 
+    Krisen sind eine Quelle für Lernen und Wachstum
 
     #### Vorgehensweise
 
@@ -18,7 +18,9 @@ tags:
 
     #### Ergebnis/Nutzen
 
-    Der Mentee kennt sich besser.
+    Die Erkenntnis, dass Krisen zum Leben gehören und auch in Zukunft dazugehören.
+    Die Erkenntis, wie Krisen gemeistert wurden.
+    Die Erkenntnis, dass Krisen oft Zeiten starker Prägung und Lernerfahrungen sind.
 
 !!! Anleitung
 
