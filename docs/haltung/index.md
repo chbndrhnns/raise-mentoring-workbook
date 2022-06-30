@@ -25,3 +25,5 @@ Der Mentor benötigt die Grundbereitschaft, selbst mitwachsen zu wollen und bere
 
  
 Ein Mentor/eine Mentorin bei RAISE LEADERS zu sein bedeutet, zum Wachstum der Persönlichkeit, des Charakters und der Spiritualität beizutragen und den Mentee zu ermutigen, den Weg in seine Berufung zu beschreiten. 
+
+(Author: Geneviève Weidner)
