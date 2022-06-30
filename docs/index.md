@@ -20,7 +20,7 @@ Der Weg durch unser Mentoring-Workbook ist einfach: Seinen Ursprung nimmt es in 
 
 Ein Mentoring im Rahmen von RAISE LEADERS lädt ein, mutig aus der Komfortzone herauszutreten, die eigene Berufung zu finden und sie dort auszuleben, wo Gott uns hineinstellt. Wie ein solches Gespräch ablaufen kann, findest Du [hier](./themen/mentoring-gespraech.md).
 
-Im Mittelpunkt von RAISE LEADERS steht die Frage nach „guter Führung“. Um in diesen Themenfelder zu wachsen, laden wir die jungen RAISE LEADERS zur "RAISE LEADERS Journey" ein. Sie dauert 9 Jahre und ist in 3 Zyklen à 3 Jahren unterteilt. Die ganze RAISE LEADERS Journey findest Du [hier](./vision/journey.md).
+Im Mittelpunkt von RAISE LEADERS steht die Frage nach „guter Führung“. Um in diesen Themenfelder zu wachsen, laden wir die jungen RAISE LEADERS zur "RAISE LEADERS Journey" ein. Sie dauert 9 Jahre und ist in 3 Zyklen à 3 Jahren unterteilt. Die ganze RAISE LEADERS Journey findest Du [hier](./journey/index.md).
 
 In jedem Zyklus stehen unterschiedliche Themen (Selbstführung, Beziehungsfähigkeit, Verantwortungsübernahme) im Mittelpunkt, die in Seminaren und Training gemeinsam mit anderen Gefährtinnen und Gefährten reflektiert und bewegt werden. Wir möchten Dich und deinen Mentee einladen, diese Inhalte in euren Gesprächen weiter zu vertiefen. Eine Auswahl an Themen aus der RAISE LEADERS Journey findet Du hier. 
 Dazu kann es manchmal hilfreich sein, im Mentoringgespräch passende Werkzeug eizusetzen. Wir haben eine erste Sammlung erstellt, die gerne erweitert werden kann! Eine Übersicht über verschiedene Tools für dein Mentoring findest Du [hier](./tools/).
