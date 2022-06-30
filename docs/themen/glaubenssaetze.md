@@ -25,7 +25,7 @@
 
 Wirken sich auf individueller Ebene und gesellschaftlicher Ebene aus. 
 
-Beispiele für positive und negative Glaubenssätze => ANLAGE 
+Beispiele findest du im [Tool](../tools/glaubenssaetze.md). 
 
 ## Wie entstehen Glaubenssätze? 
 
@@ -45,9 +45,7 @@ Situation => Wahrnehmung => Bewertung => Gefühle => Handlungen
 
 Glaubenssätze beeinflussen, wie wir eine Situation bewerten – darauf aufbauend fühlen – und handeln.  
 
-Beispiele für Glaubenssätze und Verhaltensstrategien => ANLAGE 
-
-Persönliches Zeugnis: =>ANLAGE 
+Im [Tool](../tools/glaubenssaetze.md) findest du Beispiele für Verhaltensstrategien sowie einen Erfahrungsbericht.
 
 ## Warum ist das überhaupt ein Problem? 
 
