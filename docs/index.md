@@ -10,11 +10,11 @@ Damit diese Reise gut gelingen kann, findest Du in diesem Mentoring-Workbook jed
 
 Die einzelnen Bereiche sind:
 
+- [Vision](./vision/index.md)
 - [Haltung](./haltung/index.md)
+- [Prozess](./prozess/index.md)
 - [Themen](./themen/index.md)
-- [Gesprächsablauf](./themen/mentoring-gespraech.md)
 - [Tools](./tools/index.md)
-- [Sonstiges](./)
 
 Der Weg durch unser Mentoring-Workbook ist einfach: Seinen Ursprung nimmt es in der Frage, was denn das Besondere an einem RAISE LEADERS Mentoring ist? Und das bist Du! Deine Persönlichkeit, deine Beziehung zu Gott und deine Erfahrungen werden den Mentoringprozess maßgeblich prägen. Und genau deshalb startet die Reise des Mentoring-Workbooks mit einem ehrlichen Blick auf dich und deine Haltung. Spannende Impulse zur Reflektion der eigenen Haltung findest Du [hier](./haltung/index.md). 
 
@@ -31,13 +31,3 @@ Als Mentorin und Mentor gibst Du deinem Mentee ehrlich und transparent Einblicke
 
 Schlussendlich ist es unser Gebet, dass junge Christinnen und Christen durch die Mentorenbeziehung zu Leuchtpunkten werden, die ihre Umgebung erhellen und wiederum neue Lichter entzünden.
 
-!!! Hinweis
-    bisheriger Text:
-
-    Die Inhalte auf dieser Website unterstützen Mentoren im Mentoring-Prozess.
-
-    Zum Start gibt es nur ganz wenige Inhalte:
-
-    - ein [Bild](./vision/journey.md) der Journey
-    - einen Inhalt: das [Mentoring-Gespräch](./themen/mentoring-gespraech.md)
-    - ein Tool: [Coaching-Fragen](./tools/coaching-fragen.md)
