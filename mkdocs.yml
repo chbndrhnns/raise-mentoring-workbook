@@ -43,7 +43,8 @@ nav:
   - Home: "index.md"
   - Vision:
     - vision/index.md
-    - vision/journey.md
+  - Journey:
+    - journey/index.md
   - Haltung:
     - haltung/index.md
   - Prozess:

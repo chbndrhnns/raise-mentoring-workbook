@@ -2,6 +2,7 @@
 
 - [Glaubenssätze](./glaubenssaetze.md)
 - [Gott hören](./gott-hoeren.md)
+- [Das Mentoring-Gespräch](./mentoring-gespraech.md)
 
 ## Ideen
 - Lebensphasen 
