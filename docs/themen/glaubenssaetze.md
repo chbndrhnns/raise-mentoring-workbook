@@ -1,6 +1,6 @@
 # Glaubenssätze
 
-!!! Anleitung
+!!! Übersicht
 
     #### Worum geht es in diesem Kapitel? 
 
