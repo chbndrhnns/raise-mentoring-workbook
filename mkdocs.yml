@@ -50,6 +50,7 @@ nav:
     - prozess/index.md
   - Themen:
     - themen/index.md
+    - themen/glaubenssaetze.md
     - themen/mentoring-gespraech.md
   - Tools:
     - ./tools/index.md
