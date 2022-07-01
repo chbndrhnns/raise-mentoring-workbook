@@ -72,8 +72,8 @@ nav:
     - ./tools/individualitaet.md
     - ./tools/potential-einsetzen.md
     - ./tools/pyramiden.md
-  - Internes:
-    - changelog.md
+  # - Internes:
+  #   - changelog.md
   - Tags: "tags.md"
   
 
