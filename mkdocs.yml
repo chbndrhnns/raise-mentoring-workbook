@@ -4,7 +4,7 @@ strict: true
 theme:
   name: material
   language: de
-  logo: assets/mobile-menu-logo.svg
+  logo: assets/raise-logo-nav.svg
   favicon: assets/favicon-32.png
   palette:
     primary: white
