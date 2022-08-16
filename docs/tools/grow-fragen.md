@@ -22,7 +22,7 @@ tags:
     Der Mentee erfährt Wachstum.
 
 
-John Whitmore stellt das GROW-Modell in seinem Coaching-Buch[^1] vor:
+John Whitmore stellt das GROW-Modell in einem seiner Bücher[^1] vor:
 
 
 ## G = Goal setting

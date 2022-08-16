@@ -1,6 +1,6 @@
 # Überblick
 
-#### [Coachingfragen](./coaching-fragen.md)
+#### [Mentoring-Fragen](./mentoring-fragen.md)
 #### [Lebenskurve](./lebenskurve.md)
 #### [Glaubenssätze](./glaubenssaetze.md)
 #### [Krisen](./krisen-lektionen.md)

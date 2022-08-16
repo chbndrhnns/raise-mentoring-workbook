@@ -4,7 +4,7 @@ tags:
   - tools
 ---
 
-# Coaching-Fragen
+# Mentoring-Fragen
 
 !!! Anleitung
 
@@ -27,8 +27,7 @@ tags:
 
 Diese Fragen hat John Whitmore[^1] zusammengestellt:
 
-- "Was noch"? am Ende der meisten Antworten, führt zu mehr.
-- Auch Stille, in der ein Coach und Coachee nachdenken können, führt zu mehr.
+- "Was noch"? am Ende der meisten Antworten, führt zu mehr. (Auch Stille, in der Mentor oder Mentee nachdenken können, kann sehr effektiv sein.)
 - "Wenn Sie die Antwort wüssten, was würden Sie dann sagen"?
 - "Was wären die Folgen daraus für Sie und für andere"?
 - "Welche Kriterien wenden Sie an"?

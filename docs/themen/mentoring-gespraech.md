@@ -7,7 +7,7 @@ tags:
 # Das Mentoring-Gespräch
 
 !!! Toolbox info inline end
-    - [Coaching-Fragen](../tools/coaching-fragen.md)
+    - [Mentoring-Fragen](../tools/mentoring-fragen.md)
 
 Dauer: ca. 2 Stunden
 
