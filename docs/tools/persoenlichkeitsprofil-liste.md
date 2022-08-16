@@ -4,7 +4,7 @@ tags:
   - überarbeiten
 ---
 
-# DISG-Persönlichkeitsprofil
+# persolog® Persönlichkeits-Modell
 
 - [ ] TODO: Nutzungserlaubnis
 
@@ -12,15 +12,20 @@ tags:
 
     #### Erklärung
 
-    - [ ] TODO:
+    Andere besser zu verstehen trägt sowohl im beruflichen als auch privaten Umfeld zu Erfolg bei. Das Modell definiert die Verhaltensstile "dominant", "initiativ", "stetig" und "gewissenhaft" in vier Quadranten. 
 
     #### Vorgehensweise
 
-    - [ ] TODO:
+    Anhand von zwei Fragebögen ergeben sich Ergebnis-Diagramme, die Aussagen zu den Themen "äußeres Selbstbild", "inneres Selbstbild" und "integriertes Selbstbild" ermöglichen.
+
+    Auswertungen auf bis zu sieben Interpretationsstufen zeigen Stärken und Entwicklungsmöglichkeiten auf.
 
     #### Ergebnis/Nutzen
 
-    - [ ] TODO:
+    Eine strukturierte Selbstreflektion.
+
+
+https://www.persolog.de/das-persolog-persoenlichkeits-modell/
 
 ## Dominanter Verhaltensstil
 
