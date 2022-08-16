@@ -7,15 +7,16 @@ tags:
 
     #### Erklärung
 
-    - [ ] TODO:
+    Dieses Tool liefert praktische Beispiele und Anwendungen zu den Gedanken, die im Thema "[Glaubenssätze](../themen/glaubenssaetze.md)" beschrieben sind.
 
     #### Vorgehensweise
 
-    - [ ] TODO:
+    Der Mentee reflektiert eigene Glaubenssätze anhand der Beispielsätze, des Zeugnisses oder der Illustration.
 
     #### Ergebnis/Nutzen
 
-    - [ ] TODO:
+    Verständnis der eigenen Geschichte und Prägung vertiefen
+
 
 
 # Glaubenssätze
@@ -37,7 +38,6 @@ tags:
 - Ich bekomme genug 
 - Ich bin willkommen 
 - Ich werde geliebt 
-- ...
 
 ## Negative Glaubenssätze
 
@@ -53,7 +53,6 @@ tags:
 - Ich kann Dir nicht vertrauen 
 - Frauen sind schwach 
 - Männer sind blöd 
-- ...
 
 ## Beispiele für Verhaltensstrategien
 
@@ -76,10 +75,14 @@ tags:
 
 > (Kim Hartmann)
 
+## Illustration
+
+![Illustration](../assets/thema-identitaet.jpg)
+
 ## Links
 
 - Die [Ich-bin-Liste](https://homepage.ruhr-uni-bochum.de/Manfred.Hauenschild/pdf/IchbinListe.pdf)
 - [Meine Identität in Christus](https://www.freedominchrist.eu/fic-download/fmi/xml/cnt/FIC%20Buchzeichen%202015-08-12.pdf?-db=fic-content-management&-lay=downloads&-recid=555&-field=Datei%20%7C%20Container(1))
 
 
-- [ ] TODO: Bild aus Word übernehmen (Quelle?)
+

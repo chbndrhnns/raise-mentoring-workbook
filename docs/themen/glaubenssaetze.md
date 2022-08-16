@@ -24,14 +24,15 @@ tags:
 
     Bei RAISE LEADERS suchen wir ehrlich nach Gott und rechnen mit seiner lebendigen Kraft in unserem Leben. Unser Vorrecht ist, dass wir uns an Gottes Blick, seinem Herz und seinen Aussagen über uns orientieren können. Wir können auf seine Kraft und Heilung setzen, indem wir beispielsweise im Gebet durch Vergebung und Buße tun Lügen durch Wahrheit ersetzen lassen. 
 
+!!! Toolbox info inline end
+    - [Glaubenssätze](../tools/glaubenssaetze.md)
+
+
 
 ## Was sind Glaubensätze? 
 
-„Muster“ oder auch eine „Denkweise“ mit Wahrheitsanspruch 
-
-Wirken sich auf individueller Ebene und gesellschaftlicher Ebene aus. 
-
-Beispiele findest du im [Tool](../tools/glaubenssaetze.md). 
+- „Muster“ oder auch eine „Denkweise“ mit Wahrheitsanspruch 
+- sie wirken sich auf individueller Ebene und gesellschaftlicher Ebene aus.
 
 ## Wie entstehen Glaubenssätze? 
 
