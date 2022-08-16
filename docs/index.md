@@ -12,6 +12,7 @@ Die einzelnen Bereiche sind:
 
 - [Vision](./vision/index.md)
 - [Haltung](./haltung/index.md)
+- [Journey](./journey/index.md)
 - [Prozess](./prozess/index.md)
 - [Themen](./themen/index.md)
 - [Tools](./tools/index.md)
