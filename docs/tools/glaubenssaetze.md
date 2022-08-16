@@ -18,6 +18,9 @@ tags:
     Verständnis der eigenen Geschichte und Prägung vertiefen
 
 
+!!! Themen info inline end
+    - [Glaubenssätze](../themen/glaubenssaetze.md)
+
 
 # Glaubenssätze
 
