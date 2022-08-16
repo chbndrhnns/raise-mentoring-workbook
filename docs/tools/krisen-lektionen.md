@@ -22,7 +22,6 @@ tags:
     Die Erkenntis, wie Krisen gemeistert wurden.
     Die Erkenntnis, dass Krisen oft Zeiten starker Prägung und Lernerfahrungen sind.
 
-!!! Anleitung
 
     
 
