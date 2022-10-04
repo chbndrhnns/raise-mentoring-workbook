@@ -79,10 +79,12 @@ Beispiele für Gottes Wahrheit über mich => ANLAGE
 
   
 
-(AutorIn: Kim Hartmann)
-
 Literatur:  
 
 - Bibel 😊 
 - Das Kind in Dir muss Heimat finden, Stefanie Stahl 
 - Du musst nicht von allen gemocht werden, Ichiro Kishimi und Fumitake Koga 
+
+
+!!! note "Über den Autor/die Autorin"
+    --8<-- "_autoren/hartmann-kim.md"

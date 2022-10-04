@@ -90,8 +90,5 @@ Glaubenshilfe erfahren.
 Der Prozess beginnt nach einer kurzen
 Kennenlernphase.
 
-!!! Über die Autorin
-
-    Gemma Walterscheid
-
-    - [ ] TODO: Was soll hier noch stehen?
+!!! note "Über den Autor/die Autorin"
+    --8<-- "_autoren/walterscheid-gemma.md"
