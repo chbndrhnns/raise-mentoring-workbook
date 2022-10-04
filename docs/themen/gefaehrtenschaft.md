@@ -31,6 +31,8 @@ tags:
     Als Raise Leaders sehen wir uns zu allererst als Gemeinschaft von Gefährten – Beziehungen sollen im Vordergrund stehen, nicht Programme. In knapp 20 Jahren Beziehungsgeschichte mit Raise Leaders haben wir dabei viele Schätze entdeckt, die wir weitergeben möchten. Und wir haben viele Herausforderungen und Fehler gemacht, über die wir mutig und offen reden möchten. Als Mentoring-Initiative ist es unser Ziel, junge Menschen dahingehend zu prägen, dass sie bereit sind, sich auf Gefährtenschaften einzulassen – und sich nicht als Einzelkämpfer positionieren und perfektionieren.
       
 
+## Was ist Gefährtenschaft?
+
 > "Wo sind die Gefährten </br>
 > Gemeinschaft der Beherzten </br>
 > die alles riskieren </br>
@@ -44,21 +46,19 @@ tags:
 >
 > (Die OJC Kommunität mit Dominik Klenk (2013): Wie Gefährten leben. Eine Grammatik der Gemeinschaft)
 
-## Was ist Gefährtenschaft?
-
 Gefährten sind Menschen, die gemeinsam auf der Lebens- und/oder Berufsreise sind.
 
 Das „gemeinsam unterwegs Sein" ist bereits in der ursprünglichen Wortbedeutung enthalten:
 
-**Gefährte:**'Begleiter', von althochdeutsch giferto 'Fahrtgenosse' (9. Jh.), …, '**der die Fahrt mit (einem) anderen gemeinsam macht**', der 'Mitreisende, Reisebegleiter'
+**Gefährte:** Begleiter, von althochdeutsch "giferto" 'Fahrtgenosse' (9. Jh.), …, '**der die Fahrt mit (einem) anderen gemeinsam macht**', der 'Mitreisende, Reisebegleiter'
  (Quelle: dwds.de)
 
-Gefährten haben also ein gemeinsames (Reise-)Ziel bzw. eine gemeinsame Wegstrecke vor sich, die sie miteinander erleben und gestalten. Im übertragenen Sinn bedeutet das: Gefährtenschaften sind Beziehungen, in denen man auf **gemeinsamer Entwicklungs- und Berufungsreise** ist, und das in viererlei Hinsicht (Dimensionen von Gefährtenschaft):
+Gefährten haben also ein gemeinsames (Reise-)Ziel oder eine gemeinsame Wegstrecke vor sich, die sie miteinander erleben und gestalten. Im übertragenen Sinn bedeutet das: Gefährtenschaften sind Beziehungen, in denen man auf **gemeinsamer Entwicklungs- und Berufungsreise** ist, und das in viererlei Hinsicht (Dimensionen von Gefährtenschaft):
 
 - In persönlicher Hinsicht
 - In der Beziehung zueinander bzw. in Teams
 - In der Beziehung zu Gott
-- Im gemeinsamen Einsatz nach „außen"
+- Im gemeinsamen Einsatz nach außen
 
 ### Die vier Dimensionen von Gefährtenschaft
 
@@ -246,7 +246,7 @@ Wie oft hast du einer dieser Aussagen (eher) zugestimmt?
 
 Anmerkung: diese Checkliste ist als erste Einschätzung zu verstehen. Wenn du das Thema vertiefen möchtest, dann suche das Gespräch mit Menschen aus deinem (privaten oder beruflichen) Umfeld. Sie können dir sicherlich ein fundiertes Feedback darüber geben, inwiefern sie dich eher als Einzelkämpfer oder als Gefährten an ihrer Seite erleben.
 
-**Inspirierende Literatur & Filme:**
+## Inspirierende Literatur & Filme
 
 Bücher:
 
@@ -264,10 +264,6 @@ Filme:
 - Gegen jede Regel
 - Coach Carter
 
-Verfasserin: Ulrike Bunz
 
-Ulrike Bunz, Jahrgang 1978, lebt und liebt Beratung, (peer) Coaching & Mentoring.
-
-Sie ist als systemische Beraterin und Dozentin in unterschiedlichen Kontexten tätig und gestaltet den Bereich „Schlüsselkompetenzen" an einer Hochschule mit.
-
-Als Teil des Vorstandsteams baute sie Raise Leaders e.V. mit auf und engagiert sich als Mentorin und Trainerin.  Ulrike ist verheiratet mit Andreas, hat zwei Kinder und lebt mit ihrer Familie in Esslingen am Neckar.
+!!! note "Über den Autor/die Autorin"
+    --8<-- "_autoren/bunz-ulrike.md"

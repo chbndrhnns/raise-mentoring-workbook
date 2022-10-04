@@ -28,6 +28,9 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.snippets:
+      base_path: 
+        - docs
   - toc:
       permalink: true
       toc_depth: 3
@@ -60,6 +63,7 @@ nav:
     - ./tools/lebenskurve.md
     - ./tools/glaubenssaetze.md
     - ./tools/glory-runde.md
+    - ./tools/potenzial-dusche.md
     - ./tools/handfragen.md
     - ./tools/segnen.md
     - ./tools/krisen-lektionen.md
