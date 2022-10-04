@@ -18,7 +18,7 @@ tags:
     In Zeiten von Wettbewerb, Konkurrenzdruck und Individualisierung gewinnt das Thema gesunder Beziehungen immer mehr an Bedeutung – sowohl im Privatleben, in Gemeinde und Ehrenamt sowie im Beruf. Denn ohne Beziehungen können wir nicht leben – als Menschen sind wir „Beziehungswesen". Gleichzeitig braucht es mehr denn je schöpferische und vitale Beziehungen, um die aktuellen Probleme und Herausforderungen unserer Zeit anzugehen. Gott sucht und beruft mutige, beherzte Gefährten, keine Einzelkämpfer.
 
 
-    #### Welchen Nutzen gibt es für den Mentor, wenn er hier weiterliest?  
+    #### Wie unterstützt mich das Thema im Mentoring?
 
     Der Mentor gewinnt eine Perspektive für Gefährtenschaft – in seinem persönlichen Leben, im Leben seiner Mentees und im Mentoring. Gerade für die Klärung von Berufs- und Berufungsfragen spielt die Gefährtenschafts-Perspektive eine entscheidende Rolle, die bisher meist zu wenig beleuchtet wird – z.B. neben Fragen nach Potenzialen (Fähigkeiten, Stärken, Interessen etc.). Der Leser gewinnt somit Impulse, wie er Mentoring ganzheitlicher leben und vielleicht sogar selbst zum Gefährten des Mentee kann.
 

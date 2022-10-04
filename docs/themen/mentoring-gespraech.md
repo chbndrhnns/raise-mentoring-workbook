@@ -11,6 +11,21 @@ tags:
 
 Dauer: ca. 2 Stunden
 
+!!! Übersicht
+
+    #### Worum geht es in diesem Kapitel? 
+
+    - [ ] TODO:
+
+
+    #### Weshalb ist uns dieses Thema wichtig?  
+
+    - [ ] TODO:
+
+    #### Wie unterstützt mich das Thema im Mentoring?
+
+    - [ ] TODO:
+
 
 ## Gesprächsverlauf
 

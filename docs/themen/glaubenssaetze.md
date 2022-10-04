@@ -16,17 +16,14 @@ tags:
 
     Glaubensätze beeinflussen, wie wir mit uns und mit anderen umgehen. Sie werden durch Erfahrungen geprägt. Wichtig ist, „deformierte“ Glaubenssätze zu erkennen und sie durch „göttliche“ Glaubenssätze auszutauschen. Das erlaubt und erleichtert uns, als Kind Gottes in der uns zugedachten Identität, Berufung und Bestimmung segensreich zu leben. 
 
-    #### Welchen Nutzen gibt es für den Mentor, wenn er hier weiterliest?  
+    #### Wie unterstützt mich das Thema im Mentoring?
 
-    Das Kapital ist eine Einladung, bei Mentoringthemen wie beispielsweise der Berufswahl oder Karrierewunsch tiefer zu graben und nach möglichen ungesunden Treibern für Wünsche und Bedürfnisse zu suchen. Ziel ist es, dem Mentee zu helfen, den eigenen Selbstwert und das eigene Selbstvertrauen gesund zu entwickeln und auf dieser Grundlage das Leben authentisch zu gestalten. 
-
-    #### Was ist daran das Besondere bei RAISE LEADERS?  
+    Das Kapital ist eine Einladung, bei Mentoringthemen wie beispielsweise der Berufswahl oder Karrierewunsch tiefer zu graben und nach möglichen ungesunden Treibern für Wünsche und Bedürfnisse zu suchen. Ziel ist es, dem Mentee zu helfen, den eigenen Selbstwert und das eigene Selbstvertrauen gesund zu entwickeln und auf dieser Grundlage das Leben authentisch zu gestalten.  
 
     Bei RAISE LEADERS suchen wir ehrlich nach Gott und rechnen mit seiner lebendigen Kraft in unserem Leben. Unser Vorrecht ist, dass wir uns an Gottes Blick, seinem Herz und seinen Aussagen über uns orientieren können. Wir können auf seine Kraft und Heilung setzen, indem wir beispielsweise im Gebet durch Vergebung und Buße tun Lügen durch Wahrheit ersetzen lassen. 
 
 !!! Toolbox info inline end
     - [Glaubenssätze](../tools/glaubenssaetze.md)
-
 
 
 ## Was sind Glaubensätze? 

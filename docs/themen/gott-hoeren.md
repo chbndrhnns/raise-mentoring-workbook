@@ -18,10 +18,8 @@ tags:
 
     Wir wünschen uns, dass junge Menschen in Ihrer Berufung wirksam werden. Dabei ist das Reden Gottes, seine Leitung bei den großen und kleinen Fragen des Lebens, bei den Entscheidungen und der Bewältigung des Alltags von großer Bedeutung. Der Mentee kann auf diese Weise Orientierung finden sowie Schritt für Schritt wachsen in Weisheit, an Charakterstärke, sowie in seiner Beziehung zu Gott und anderen. Er kann Heilung der Seele erfahren, mit seinen Bedürfnissen bei Gott auftanken und im Trubel des Alltags Ruhe und Frieden finden.  
 
-    #### Welchen Nutzen gibt es für den Mentor, wenn er hier weiterliest?  
-      
-    - [ ] TODO: Sektionen mergen/umbennen -> Wie unterstützt mich das Thema im Mentoring? 
-
+    #### Wie unterstützt mich das Thema im Mentoring?  
+    
     Auch im Mentoring kann das Hören der Stimme Gottes von Seiten des Mentors zur größeren Tiefe in den Gesprächen führen. Gott kann den Mentor beispielsweise zu Knackpunkten beim Mentee führen und er kann Bote sein für Gottes Trost, Orientierung und Ermutigung. 
 
 
