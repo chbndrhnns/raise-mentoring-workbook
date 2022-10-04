@@ -3,6 +3,12 @@ tags:
   - themen
 ---
 
+!!! Toolbox info inline end
+    - [Glory Runde](../tools/glory-runde.md)
+    - [Handfragen](../tools/handfragen.md)
+    - [Einander segnen](../tools/segnen.md)
+    - [Potenzial-Dusche](../tools/potenzial-dusche.md)
+
 
 # Gefährtenschaft 
 
@@ -209,42 +215,6 @@ Ergänzungsbereitschaft und Kooperationsfähigkeit setzen einerseits voraus, die
 
 Und gleichzeitig zu erkennen, dass eben auch der andere, so unterschiedlich – manchmal auch anstrengend und nervig – er ist, meine „lebenswichtige Ergänzung" ist. Wer einmal die Qualität von echter Teamarbeit und Kooperation geschmeckt hat, möchte diese Power nicht mehr missen.
 
-## Praktische Gefährtenschafts-Tools, die Gefährtenschaft beleben
-
-Wie kann Gefährtenschaft ganz praktisch gelebt und gestaltet werden? Hier vier Ideen, die den Austausch zwischen Gefährten - ebenso wie Mentoringgespräche – fördern und beleben können.
-
-### Tool 1: „Wertschätzende Erkundung" bzw. „Glory Runde"
-
-Bei einer wertschätzenden Erkundung geht man zu einer Fragestellung bewusst auf die Suche nach dem Guten, nach den Schätzen. Hier einige mögliche Einstiegsfragen für die wertschätzende Erkundung: was ist dir in der letzten Woche besonders gut gelungen? Oder: wann hast du dich besonders lebendig gefühlt, wie ein Fisch im Wasser? Was war dein bestes Teamerlebnis? Welches Verhalten hast du an mir besonders geschätzt? Oder: was war dein schönstes Erlebnis mit Gott?
-
-Alle Beteiligten erzählen dann nacheinander eine konkrete Geschichte aus ihrem Alltag dazu. Dabei ist es egal, ob man zu zweit oder zu zwanzig ist. Bei großen Gruppen bietet es sich allerdings an, für die Storytelling-Phase in Kleingruppen von ca. vier bis fünf Leuten zu gehen. Inspirierend kann es sein, sich abschließend über Gemeinsamkeiten der Geschichten auszutauschen oder über konkrete Learnings bzw. „Erfolgsfaktoren", die solche positiven Erlebnisse stärken könnten.
-
-Aus meiner Erfahrung bewährt sich die wertschätzende Erkundung wunderbar als festes Einstiegsritual – sei es für Teammeetings, Gefährtenschaftsaustausche, Zweierschaften oder auch für Mentoringgespräche. Es wird eine ermutigende und inspirierende Atmosphäre geschaffen und es fällt auch im anschließenden Gespräch leichter, den Fokus auf das Positive und Mögliche zu richten als auf Defizite.
-
-### Tool 2: Die Handfragen
-
-Die Handfragen helfen, den Austausch zwischen Gefährten auf gute Weise zu strukturieren.
-
-Dabei leiten sechs Fragen den Austausch – die fünf Finger der Hand bzw. die ganze Hand sind dabei die „Erinnerungsstützen" für die einzelnen Fragen:
-
-- Daumen: was läuft bzw. lief besonders gut? Worauf bin ich stolz oder wofür bin ich dankbar? Was waren die „besten" Momente?
-- Zeigefinger: was habe ich gelernt? Wo habe ich mich weiterentwickelt? Welche neuen Impulse oder Ideen haben mich entzündet?
-- Mittelfinger: Was stinkt mir? Was hat mich geärgert, bedrückt, herausgefordert?
-- Ringfinger: Wie steht es um meine Beziehungen? Wem bin ich begegnet? Welche Beziehungen habe ich gepflegt oder aktiviert – welche nicht?
-- Kleiner Finger: Was kam zu kurz? Was habe ich vermisst? Wofür habe ich mir keine Zeit genommen?
-- Ganze Hand: Mit Blick auf den anstehenden Tag/die anstehende Woche oder die kommende Zeit: was ist mir wichtig? Auf was möchte ich achten? Woran darfst du mich erinnern? Wofür kannst du beten?
-
-Jeder Gefährte berichtet entlang dieser Fragen aus seinem Leben. Manchmal kann es hilfreich sein, sich dafür einen bestimmten Zeitrahmen festzulegen. Die Handfragen bieten sich sowohl für einen Speed-Austausch an (ca. 2 bis 3 Minuten pro Person) als auch für ausführlichere Austauschrunden (ca. 15 bis 20 min pro Person). Zum Abschluss können die Gefährten einander segnen.
-
-### „Tool" 3: Einander segnen
-
-Zum Abschluss einer Gefährtenschaftsbegegnung kann es zum guten Ritual werden, einander zu segnen und ggf. auch füreinander zu hören, was für die nächste Etappe dran ist. Während man im Austausch davor viel voneinander gehört hat, kann beim Segnen jeder noch einmal in besonderer Weise auf den heiligen Geist hören, sich inspirieren lassen und dem Anderen Gutes zusprechen.
-
-### Tool 4: Potenzial-Dusche
-
-Gerade wenn man miteinander im Einsatz ist, erlebt man sich hautnah in seinen Stärken und Begrenzungen. Warum nicht immer wieder innehalten und dem Gefährten (oder sich gegenseitig) eine Potenzial-Dusche mit positivem Feedback geben? Was ist mir beim anderen ganz konkret, ganz praktisch positiv aufgefallen? Welche Verhaltensweise habe ich heute geschätzt bzw. hat mich heute weitergebracht? Welche Ideen und Beiträge sind besonders wertvoll und inspirierend?
-
-Es kann mündlich „geduscht" werden, indem man dem anderen die guten Dinge, die einem aufgefallen sind, zuspricht. Kreative Köpfe können auch zum Potenzial passende Karten aussuchen oder selbst gestalten und das Feedback aufs Papier bringen. Auch die Potenzialdusche kann zu einem regelmäßigen Ritual werden, z.B. beim „Check out" (Abschlussrunde) nach einem gemeinsamen Einsatz.
 
 ## Kleine Checkliste: Gefährte oder Einzelkämpfer?
 
