@@ -30,8 +30,6 @@ tags:
 
     Als Raise Leaders sehen wir uns zu allererst als Gemeinschaft von Gefährten – Beziehungen sollen im Vordergrund stehen, nicht Programme. In knapp 20 Jahren Beziehungsgeschichte mit Raise Leaders haben wir dabei viele Schätze entdeckt, die wir weitergeben möchten. Und wir haben viele Herausforderungen und Fehler gemacht, über die wir mutig und offen reden möchten. Als Mentoring-Initiative ist es unser Ziel, junge Menschen dahingehend zu prägen, dass sie bereit sind, sich auf Gefährtenschaften einzulassen – und sich nicht als Einzelkämpfer positionieren und perfektionieren.
       
-    - [ ] TODO: Sektionen mergen/umbennen -> Wie unterstützt mich das Thema im Mentoring? 
-
 
 > "Wo sind die Gefährten </br>
 > Gemeinschaft der Beherzten </br>
