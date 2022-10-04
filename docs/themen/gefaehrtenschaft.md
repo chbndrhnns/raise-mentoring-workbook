@@ -145,6 +145,7 @@ Welche Situation fällt dir ein, in der dir jemand auf besondere Weise zugehört
 
 Einen guten Impuls zum Thema gutes, tiefes Zuhören liefert Otto Scharmer: [https://www.presencing.org/resource/tools/listen-desc](https://www.presencing.org/resource/tools/listen-desc)
 
+
 #### „Humbleness" & gute Fragen stellen
 
 „_Doch all meine Erfahrungen in der Lehre und der Unternehmensberatung haben mir gezeigt, dass das, was Beziehungen aufbaut, was Probleme löst, was die Dinge weiterbringt, das Stellen der richtigen Fragen ist." (Edgar Schein)_
