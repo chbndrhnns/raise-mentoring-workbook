@@ -63,8 +63,8 @@ nav:
     - ./tools/mentoring-fragen.md
     - ./tools/lebenskurve.md
     - ./tools/glaubenssaetze.md
-    - ./tools/glory-runde.md
-    - ./tools/potenzial-dusche.md
+    - "Glory-Runde": ./tools/glory-runde.md
+    - "Potenzial-Dusche": ./tools/potenzial-dusche.md
     - ./tools/handfragen.md
     - ./tools/segnen.md
     - ./tools/krisen-lektionen.md
