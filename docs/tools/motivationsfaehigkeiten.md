@@ -9,15 +9,21 @@ tags:
 
     #### Erklärung
 
-    - [ ] TODO:
+    Im Bereich der Fähigkeiten gibt es natürliche motivierende Fähigkeiten. Diese sind angeboren, gehören also zum Paket an Grundressourcen. Sie motivieren einen und versorgen einen mit Energie, wann immer man sie einsetzt.
 
     #### Vorgehensweise
 
-    - [ ] TODO:
+    1.	Schaue Dir die aufgelisteten Fähigkeiten und kreuze dann an die Fähigkeit an, 
+    bei der du das Gefühl hast, dass sie eine deiner „Energielieferanten“ ist, sobald du sie anwendest.
+    1.	Schaue dir erneut die Fähigkeiten an, die du mit einem Kreuz versehen hast, 
+    und markiere diesmal die Fähigkeiten, die du sowohl gerne einsetzt als auch gut kannst, mit einem zweiten Kreuzchen.
+    1.	Wähle nun 10 Fähigkeiten aus den zweifach angekreuzten Fähigkeiten aus und übertrage sie
+    in die Pyramide der natürlichen Motivationsfähigkeiten. 
+    Dabei soll deine größte Fähigkeit die Spitze bilden und die anderen neun den „Unterbau“ dazu liefern.
 
     #### Ergebnis/Nutzen
 
-    - [ ] TODO:
+    Du erkennst dein persönliches Ressourcenpaket an natürlichen Motivationsfähigkeiten. 
 
 ## Tätigkeiten mit Menschen [^1]
 
