@@ -5,7 +5,7 @@ tags:
 
 # Leiterschaftserfahrungen
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 

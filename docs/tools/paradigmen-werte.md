@@ -5,7 +5,7 @@ tags:
 
 # Paradigmen und Werte
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 

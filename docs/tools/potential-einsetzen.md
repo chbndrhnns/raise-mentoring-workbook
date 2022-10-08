@@ -5,7 +5,7 @@ tags:
 
 # Potenzial einsetzen
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 

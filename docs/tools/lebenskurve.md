@@ -5,7 +5,7 @@ tags:
 
 # Lebenskurve
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 

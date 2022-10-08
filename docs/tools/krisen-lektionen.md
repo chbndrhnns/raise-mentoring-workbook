@@ -5,7 +5,7 @@ tags:
 
 # Von Krisen zu Lektionen
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 

@@ -8,7 +8,7 @@ tags:
 
 ## Pyramide der idealen Umstände
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 
@@ -26,7 +26,7 @@ tags:
 
 ## Pyramide der Persönlichkeitswerte
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 

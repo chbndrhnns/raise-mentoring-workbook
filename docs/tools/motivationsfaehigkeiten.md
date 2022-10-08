@@ -5,7 +5,7 @@ tags:
 
 # Natürliche Motivationsfähigkeiten
 
-!!! Anleitung
+??? Anleitung
 
     #### Erklärung
 
