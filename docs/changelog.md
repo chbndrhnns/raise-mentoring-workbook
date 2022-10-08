@@ -2,5 +2,5 @@
 
 ## 2021-10-07
 
-- neu: Das Coaching-Gespräch
-- neu: Tool - Coaching-Fragen
+- neu: Das Mentoring-Gespräch
+- neu: Tool - Mentoring-Fragen
