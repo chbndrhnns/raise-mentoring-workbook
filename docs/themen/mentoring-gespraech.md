@@ -6,28 +6,29 @@ tags:
 
 # Das Mentoring-Gespräch
 
-!!! Toolbox info inline end
-    - [Mentoring-Fragen](../tools/mentoring-fragen.md)
-
-Dauer: ca. 2 Stunden
-
 ???+ Übersicht
 
     #### Worum geht es in diesem Kapitel? 
 
-    - [ ] TODO:
-
+    Mentoren und Mentorinnen, die Unterstützung bei der Durchführung eines
+    Mentoring-Gesprächs suchen, finden hier eine Vorlage.
 
     #### Weshalb ist uns dieses Thema wichtig?  
 
-    - [ ] TODO:
+    Das Mentoring-Gespräch ist ein Grundpfeiler der Begleitung der Mentees.
 
     #### Wie unterstützt mich das Thema im Mentoring?
 
-    - [ ] TODO:
+    Der vorgeschlagene Ablauf und auch die Fragen helfen, ein Gespräch mit einem
+    Mentee zu führen.
 
 
 ## Gesprächsverlauf
+
+Dauer: ca. 2 Stunden
+
+!!! Toolbox info inline end
+    - [Mentoring-Fragen](../tools/mentoring-fragen.md)
 
 ### Erste Phase: Kontakt finden
 
