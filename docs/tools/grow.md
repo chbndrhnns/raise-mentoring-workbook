@@ -3,7 +3,7 @@ tags:
   - tools
 ---
 
-# GROW (neu von Michael)
+# GROW
 
 ??? Anleitung
 
