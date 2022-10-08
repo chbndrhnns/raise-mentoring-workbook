@@ -3,13 +3,6 @@ tags:
   - themen
 ---
 
-!!! Toolbox info inline end
-    - [Glory Runde](../tools/glory-runde.md)
-    - [Handfragen](../tools/handfragen.md)
-    - [Einander segnen](../tools/segnen.md)
-    - [Potenzial-Dusche](../tools/potenzial-dusche.md)
-
-
 # Gefährtenschaft 
 
 ???+ Übersicht
@@ -100,6 +93,14 @@ Meist gehen wir mit einer zu individualistischen Brille an das Thema Berufung he
 
 Aus eigener Erfahrung kann ich auch sagen: Gefährtenschaft macht uns in unserer Berufung, in unseren privaten und professionellen Rollen sowohl lebendiger als auch schlagkräftiger. Wir werden mutiger!
 
+
+!!! Toolbox info inline end
+    - [Glory Runde](../tools/glory-runde.md)
+    - [Handfragen](../tools/handfragen.md)
+    - [Einander segnen](../tools/segnen.md)
+    - [Potenzial-Dusche](../tools/potenzial-dusche.md)
+
+
 ### Reflexionsfragen
 
 Was sind prominente Beispiele für Gefährtschaft? Die Jünger haben sich als Gefährten verstanden (Roland Werner spricht in seiner Bibelübersetzung „Das Buch" von Gefährten statt von Jüngern): sie leben miteinander und mit Jesus Gemeinschaft und Beziehung und sind gleichzeitig für einen gemeinsamen Auftrag im Einsatz. Literarische Beispiele sind weiterhin die Musketiere („Alle für einen und einer für alle!") oder „die Gefährten" der „Herr der Ringe"-Trilogie.
@@ -129,7 +130,7 @@ Haltungen lassen sich nicht einfach lernen und trainieren – sie werden vielmeh
 
 Im Folgenden werden die ersten beiden Bereiche „Aktives Zuhören" sowie „Gute Fragen stellen" ausführlicher beschrieben:
 
-#### Echtes Interesse, Wertschätzung &aktives Zuhören:
+#### Echtes Interesse, Wertschätzung und aktives Zuhören:
 
 > „Zuhören ist wahrscheinlich die am meisten unterschätzte Grundfähigkeit. (…) Wenn du die Qualität deines Zuhörens veränderst, veränderst du dein Leben!" (Otto Scharmer)
 
@@ -146,7 +147,7 @@ Welche Situation fällt dir ein, in der dir jemand auf besondere Weise zugehört
 Einen guten Impuls zum Thema gutes, tiefes Zuhören liefert Otto Scharmer: [https://www.presencing.org/resource/tools/listen-desc](https://www.presencing.org/resource/tools/listen-desc)
 
 
-#### „Humbleness" & gute Fragen stellen
+#### „Humbleness" und gute Fragen stellen
 
 „_Doch all meine Erfahrungen in der Lehre und der Unternehmensberatung haben mir gezeigt, dass das, was Beziehungen aufbaut, was Probleme löst, was die Dinge weiterbringt, das Stellen der richtigen Fragen ist." (Edgar Schein)_
 

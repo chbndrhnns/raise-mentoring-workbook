@@ -55,7 +55,7 @@ nav:
   - Themen:
     - themen/index.md
     - themen/abgrenzung.md
-    - themen/gefaehrtenschaft.md
+    - "Gefährtenschaft": themen/gefaehrtenschaft.md
     - themen/glaubenssaetze.md
     - themen/gott-hoeren.md
     - themen/mentoring-gespraech.md
