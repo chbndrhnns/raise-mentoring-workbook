@@ -23,11 +23,9 @@ tags:
     Auch im Mentoring kann das Hören der Stimme Gottes von Seiten des Mentors zur größeren Tiefe in den Gesprächen führen. Gott kann den Mentor beispielsweise zu Knackpunkten beim Mentee führen und er kann Bote sein für Gottes Trost, Orientierung und Ermutigung. 
 
 
+## Grundlagen und Leitlinien 
 
 > Strebt nach der Liebe! Bemüht euch um die Gaben des Geistes, am meisten aber darum, dass ihr prophetisch redet! ... Wer aber prophetisch redet, der redet zu Menschen zur Erbauung und zur Ermahnung und zur Tröstung. (1. Korinther 14, 1-3) 
-
-
-## Grundlagen und Leitlinien 
 
 Im Folgenden sollen Grundlagen und Leitlinien aufgezeigt werden, die beim Einüben des Hörens auf Gott hilfreich sein können.  
 
