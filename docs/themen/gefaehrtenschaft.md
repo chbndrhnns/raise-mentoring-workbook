@@ -12,7 +12,7 @@ tags:
 
 # Gefährtenschaft 
 
-!!! Übersicht
+???+ Übersicht
 
     #### Worum geht es in diesem Kapitel? 
 
