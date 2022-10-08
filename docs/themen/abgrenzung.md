@@ -10,15 +10,17 @@ tags:
 
     #### Worum geht es in diesem Kapitel? 
 
-    - [ ] TODO:
+    Wir grenzen die Disziplinen Mentoring, Coaching, Seelsorge und Therapie voneinander ab. 
 
     #### Weshalb ist uns dieses Thema wichtig?  
     
-    - [ ] TODO:
+    Die Begriffe werden manchmal synonym verwendet. Wir legen Wert darauf, dass wir uns bei 
+    RAISE LEADERS auf Mentoring fokussieren.
 
     #### Wie unterstützt mich das Thema im Mentoring?
 
-    - [ ] TODO:
+    Es dient der Begriffsklärung.
+
 
 ## Mentoring
 
