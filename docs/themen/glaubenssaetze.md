@@ -86,5 +86,5 @@ Literatur:
 - Du musst nicht von allen gemocht werden, Ichiro Kishimi und Fumitake Koga 
 
 
-!!! note "Über den Autor/die Autorin"
+??? info "Über den Autor/die Autorin"
     --8<-- "_autoren/hartmann-kim.md"

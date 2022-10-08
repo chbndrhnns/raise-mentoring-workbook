@@ -111,5 +111,5 @@ In diesen Text sind neben eigenen Erfahrungen auch Gedanken aus diesen Büchern 
 - „Die Gaben des Heiligen Geist“ (Pfarrer Friedrich Aschoff, Pfarrer Dr. Dr. Paul Toaspern, Bischof Geoffrey Graham Dow (2007); Gge Geistliche Gemeinde-Erneuerung, Hamburg;)
 
 
-!!! note "Über den Autor/die Autorin"
+??? info "Über den Autor/die Autorin"
     --8<-- "_autoren/schaefer-vanessa.md"

@@ -266,5 +266,5 @@ Filme:
 - Coach Carter
 
 
-!!! note "Über den Autor/die Autorin"
+??? info "Über den Autor/die Autorin"
     --8<-- "_autoren/bunz-ulrike.md"

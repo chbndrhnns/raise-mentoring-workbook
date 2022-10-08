@@ -90,5 +90,5 @@ Glaubenshilfe erfahren.
 Der Prozess beginnt nach einer kurzen
 Kennenlernphase.
 
-!!! note "Über den Autor/die Autorin"
+??? info "Über den Autor/die Autorin"
     --8<-- "_autoren/walterscheid-gemma.md"
