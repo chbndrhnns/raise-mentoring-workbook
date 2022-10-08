@@ -9,16 +9,15 @@ tags:
 
     #### Erklärung
 
-    - [ ] TODO:
-
+    Die Tabelle gibt Platz, um eigene Erfahrungen mit Leiterschaft (also dem Geführtwerden) zu reflektieren.
 
     #### Vorgehensweise
 
-    - [ ] TODO:
+    Schreibe deine eigenen Erfahrungen mit Leiterschaft (also aus Sicht des Geleiteten) in die jeweilige Spalte (positive Erfahrungen bzw. negative Erfahrungen).
 
     #### Ergebnis/Nutzen
 
-    - [ ] TODO:
+    Du erkennst, auf welche eigenen Erfahrungen, bezüglich Leiterschaft, du zurückgreifen kannst. Zudem kannst du dir bewusst machen, welche negativen Erfahrungen du schon verarbeitet hast und welche noch nicht. 
 
 ## Positive Erfahrungen
 
