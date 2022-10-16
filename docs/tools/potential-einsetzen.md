@@ -9,14 +9,14 @@ tags:
 
     #### Erklärung
 
-    Diese Pyramide visualisiert, wie der Mentee sich fokussiert, was sein Potenzial angeht.
+    Diese Pyramiden visualisieren, wie der Mentee sich fokussiert, was verschiedene Lebensbereiche angeht.
 
     #### Vorgehensweise
 
-    Die Pyramide wird von unten nach oben ausgefüllt.
+    Die Pyramiden werden jeweils von unten nach oben ausgefüllt.
 
     #### Ergebnis/Nutzen
 
-    Ein breites Portfolio an Potenzial verdichtet sich zu einem Top-Potenzial.
+    Ein breites Portfolio an Aspekten verdichten sich zu jeweils einem Top-Aspekt.
 
 ![](../assets/potential-einsetzen.png)

@@ -9,14 +9,14 @@ tags:
 
     #### Erklärung
 
-    - [ ] TODO:
+    Diese Pyramide visualisiert, wie der Mentee sich fokussiert, was seine idealen Umstände angeht.
 
     #### Vorgehensweise
 
-    - [ ] TODO:
+    Die Pyramide wird von unten nach oben ausgefüllt.
 
     #### Ergebnis/Nutzen
 
-    - [ ] TODO:
+    Ein breites Portfolio an idealen Umständen verdichtet sich zu dem stärksten idealen Umstand.
 
 ![](../assets/pyramide.png)
