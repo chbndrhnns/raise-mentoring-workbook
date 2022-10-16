@@ -61,27 +61,27 @@ nav:
     - themen/mentoring-gespraech.md
   - Tools:
     - ./tools/index.md
-    - ./tools/mentoring-fragen.md
-    - ./tools/lebenskurve.md
+    - ./tools/eisenhower-diagramm.md
+    - ./tools/erfolge-talente.md
     - ./tools/glaubenssaetze.md
     - "Glory-Runde": ./tools/glory-runde.md
-    - "Potenzial-Dusche": ./tools/potenzial-dusche.md
-    - ./tools/handfragen.md
-    - ./tools/segnen.md
-    - ./tools/krisen-lektionen.md
-    - ./tools/leiterschaftserfahrungen.md
-    - ./tools/erfolge-talente.md
-    - ./tools/motivationsfaehigkeiten.md
-    - ./tools/persoenlichkeitsprofil-liste.md
-    - ./tools/paradigmen-werte.md
-    - ./tools/lernziele-definieren.md
     - ./tools/grow.md
-    - ./tools/eisenhower-diagramm.md
-    - ./tools/kommunitaet.md
+    - ./tools/handfragen.md
     - ./tools/individualitaet.md
+    - ./tools/kommunitaet.md
+    - ./tools/krisen-lektionen.md
+    - ./tools/lebenskurve.md
+    - ./tools/leiterschaftserfahrungen.md
+    - ./tools/lernziele-definieren.md
+    - ./tools/mentoring-fragen.md
+    - ./tools/motivationsfaehigkeiten.md
+    - ./tools/paradigmen-werte.md
+    - ./tools/persoenlichkeitsprofil-liste.md
+    - "Potenzial-Dusche": ./tools/potenzial-dusche.md
     - ./tools/potential-einsetzen.md
     - ./tools/pyramide-umstaende.md
     - ./tools/pyramide-werte.md
+    - ./tools/segnen.md
   # - Internes:
   #   - changelog.md
   - Tags: "tags.md"
