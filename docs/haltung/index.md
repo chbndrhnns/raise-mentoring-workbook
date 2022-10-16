@@ -21,9 +21,10 @@ Der Mentee bestimmt sowohl die Ziele als auch den Prozess. Wichtig ist, dass pro
 Mentoring ist eine Herz-zu-Herz-Begegnung, bei der Mentor und Mentee ihre Herzen verbinden, bei der der Mentor bereit ist, seine Schätze, die er von Gott auf seinem Lebensweg bekommen hat, mit dem Mentee zu teilen. 
 
  
-Der Mentor benötigt die Grundbereitschaft, selbst mitwachsen zu wollen und bereit zu sein, auch sich verändern zu lassen. Darüber hinaus braucht er Wertschätzung, Neugier, gesunde innere Distanz, Kommunikation auf Augenhöhe, Jesus als Vorbild. 
+Der Mentor benötigt die Bereitschaft, auch selbst wachsen zu wollen und bereit zu sein, sich verändern zu lassen. Darüber hinaus braucht er Wertschätzung, Neugier, gesunde innere Distanz, Kommunikation auf Augenhöhe, Jesus als Vorbild. 
 
  
 Ein Mentor/eine Mentorin bei RAISE LEADERS zu sein bedeutet, zum Wachstum der Persönlichkeit, des Charakters und der Spiritualität beizutragen und den Mentee zu ermutigen, den Weg in seine Berufung zu beschreiten. 
 
-(Author: Geneviève Weidner)
+??? info "Über den Autor/die Autorin"
+    --8<-- "_autoren/weidner-genevieve.md"
