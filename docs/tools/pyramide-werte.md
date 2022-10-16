@@ -9,14 +9,14 @@ tags:
 
     #### Erklärung
 
-    - [ ] TODO:
+    Diese Pyramide visualisiert, wie der Mentee sich fokussiert, was seine persönlichen Werte angeht.
 
     #### Vorgehensweise
 
-    - [ ] TODO:
+    Die Pyramide wird von unten nach oben ausgefüllt.
 
     #### Ergebnis/Nutzen
 
-    - [ ] TODO:
+    Ein breites Portfolio an Werten verdichtet sich zu einem Top-Wert.
 
 ![](../assets/pyramide.png)
