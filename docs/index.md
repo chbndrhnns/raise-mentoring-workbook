@@ -32,3 +32,5 @@ Als Mentorin und Mentor gibst Du deinem Mentee ehrlich und transparent Einblicke
 
 Schlussendlich ist es unser Gebet, dass junge Christinnen und Christen durch die Mentorenbeziehung zu Leuchtpunkten werden, die ihre Umgebung erhellen und wiederum neue Lichter entzünden.
 
+??? info "Über den Autor/die Autorin"
+    --8<-- "_autoren/hartmann-kim.md"
