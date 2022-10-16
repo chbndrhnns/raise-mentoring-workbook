@@ -1,1 +1,1 @@
-Kim Hartmann
+[Kim Hartmann](https://raiseleaders.communiapp.de/page/detail/tab/user-26761)

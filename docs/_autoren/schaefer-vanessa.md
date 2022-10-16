@@ -1,1 +1,1 @@
-Vanessa Schäfer
+[Vanessa Schäfer](https://raiseleaders.communiapp.de/page/detail/tab/user-41611)

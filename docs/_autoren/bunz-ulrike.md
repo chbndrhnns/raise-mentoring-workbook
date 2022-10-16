@@ -1,4 +1,4 @@
-Ulrike Bunz, Jahrgang 1978, lebt und liebt Beratung, (peer) Coaching & Mentoring.
+[Ulrike Bunz](https://raiseleaders.communiapp.de/page/detail/tab/user-26945), Jahrgang 1978, lebt und liebt Beratung, (peer) Coaching & Mentoring.
 
 Sie ist als systemische Beraterin und Dozentin in unterschiedlichen Kontexten tätig und gestaltet den Bereich „Schlüsselkompetenzen" an einer Hochschule mit.
 
