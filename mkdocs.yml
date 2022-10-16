@@ -80,7 +80,8 @@ nav:
     - ./tools/kommunitaet.md
     - ./tools/individualitaet.md
     - ./tools/potential-einsetzen.md
-    - ./tools/pyramiden.md
+    - ./tools/pyramide-umstaende.md
+    - ./tools/pyramide-werte.md
   # - Internes:
   #   - changelog.md
   - Tags: "tags.md"
