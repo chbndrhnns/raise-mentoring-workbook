@@ -1,5 +1,9 @@
 # Prozess
 
+!!! note
+
+   - [ ] TODO: Dieses Kapitel ist noch nicht fertig bearbeitet.
+
 ## Warum Mentoring?
 ## Rolle des Mentors
 ## Ziele des Prozesses
