@@ -28,7 +28,7 @@ Dazu kann es manchmal hilfreich sein, im Mentoringgespräch passende Werkzeug ei
 
 Wir sind davon überzeugt, dass Beziehungen der Schlüssel für einen gemeinsamen, fruchtbringenden Weg darstellen und so wollen wir auch als Mentorinnen und Mentoren nicht alleine unterwegs sein. Um voneinander lernen zu können, den Erfahrungsschatz der anderen zu erschließen und das eigene Mentoring zu erweitern, gibt es verschiedene Unterstützungsangebote. Zudem steht Dir das Mentorensupportteam bei allen Fragen gerne zur Seite, weitere Informationen und Kontaktdaten findest Du [hier](./contact.md).
 
-Als Mentorin und Mentor gibst Du deinem Mentee ehrlich und transparent Einblicke in dein Leben. Du bietest Orientierungshilfe und mutest es ihnen immer wieder zu, Herausforderungen anzupacken und das Beste aus sich herauszuholen. Für deine Zeit und deiner Investition in die nachfolgende Generation möchten wir Dir von Herzen danken!
+Als Mentorin und Mentor gibst Du deinem Mentee ehrlich und transparent Einblicke in dein Leben. Du bietest Orientierungshilfe und mutest es ihnen immer wieder zu, Herausforderungen anzupacken und das Beste aus sich herauszuholen. Für deine Zeit und deine Investition in die nachfolgende Generation möchten wir Dir von Herzen danken!
 
 Schlussendlich ist es unser Gebet, dass junge Christinnen und Christen durch die Mentorenbeziehung zu Leuchtpunkten werden, die ihre Umgebung erhellen und wiederum neue Lichter entzünden.
 
