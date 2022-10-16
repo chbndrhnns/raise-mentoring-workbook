@@ -1,8 +1,8 @@
 # Überblick
 
-- [Glaubenssätze](./glaubenssaetze.md)
-- [Gott hören](./gott-hoeren.md)
-- [Das Mentoring-Gespräch](./mentoring-gespraech.md)
+Wähle im Inhaltsverzeichnis ein Thema aus, um die Details zu sehen.
+
+<!-- 
 
 ## Ideen
 - Lebensphasen 
@@ -20,3 +20,5 @@
 - Gefährtenschaft 
 - Selbstreflektion - Kontemplation 
 - Rituale als Hilfe
+
+-->
