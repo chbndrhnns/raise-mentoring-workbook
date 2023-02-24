@@ -1,6 +1,10 @@
 site_name: Mentoring-Handbuch
 strict: true
 
+extra:
+  analytics:
+    provider: custom
+
 theme:
   name: material
   language: de
@@ -8,6 +12,7 @@ theme:
   favicon: assets/favicon-32.png
   palette:
     primary: white
+  custom_dir: overrides
 
   font:
     text: Lato
