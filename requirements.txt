@@ -1,4 +1,4 @@
-mkdocs-material~=8.3.8
+mkdocs-material~=9.0
 mkdocs-git-revision-date-plugin
 wheel
 requests
