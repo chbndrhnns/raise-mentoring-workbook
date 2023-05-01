@@ -148,7 +148,7 @@ bewusst werden lassen.
 
 ## Literatur
 
-- Quelle: Dr. med. Bernhard Uehleke, Abt. Naturheilkunde – Charité Berlin
+- Dr. med. Bernhard Uehleke, Abt. Naturheilkunde – Charité Berlin
 
 ??? info "Über den Autor/die Autorin"
     --8<-- "_autoren/dubowy-tim.md"
