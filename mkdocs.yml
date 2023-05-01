@@ -90,6 +90,7 @@ nav:
     - ./tools/pyramide-werte.md
     - ./tools/reflektionsbogen.md
     - ./tools/segnen.md
+  - FAQ: ./faq.md
   # - Internes:
   #   - changelog.md
   - Tags: "tags.md"
