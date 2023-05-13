@@ -5,6 +5,21 @@ tags:
 
 # Unser Verständnis von Führung 
 
+???+ Übersicht
+
+    #### Worum geht es in diesem Kapitel? 
+
+    - [ ] TODO
+
+    #### Weshalb ist uns dieses Thema wichtig?  
+
+      - [ ] TODO
+
+    #### Wie unterstützt mich das Thema im Mentoring?
+
+      - [ ] TODO
+
+
 ## Führung fängt bei uns selbst an 
 
 Als RAISE LEADERS verstehen wir das Thema Führung von Gott inspiriert. 
