@@ -1,5 +1,6 @@
-mkdocs-material~=9.0
+mkdocs-material~=9.5.0gi
 mkdocs-git-revision-date-plugin
 wheel
 requests
 mkdocs-linkcheck
+mkdocs-exporter==5.2.1
